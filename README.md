@@ -1,6 +1,5 @@
 ## Shuffler
 A simple plugin designed to pick random songs to play from a list.
-This was a code challenge.
 
 ## Installation
 
