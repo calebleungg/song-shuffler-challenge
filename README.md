@@ -8,7 +8,7 @@ A simple plugin designed to pick random songs to play from a list.
 ```bash
 $: gem install bundler
 
-# ... and then
+# ..... and then
 
 $: bundle install
 ```
